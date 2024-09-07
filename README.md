@@ -28,4 +28,4 @@ Este é o repositório da landing page do tipo Arquitetura.
 ## 6. Hospedagem
 
 - Mailing List: https://api.sheetmonkey.io/form/qM2a2VwMYU9jYRhgSKGqeC
-- website: https://landing-pages-arquitetura.netlify.app
+- website: https://landingpages-arquitetura.netlify.app
